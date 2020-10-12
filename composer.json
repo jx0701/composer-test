@@ -2,7 +2,7 @@
   "name": "mac/composer_test",
   "description": "demo",
   "type": "library",
-  "license": "mit",
+  "license": "MIT",
   "authors": [
     {
       "name": "纪鑫鑫",
